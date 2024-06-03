@@ -1,1 +1,1 @@
-# goit-js-hw-05
+https://github.com/Kingkuc/goit-js-hw-05.git
